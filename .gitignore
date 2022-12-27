@@ -6,6 +6,8 @@ node_modules
 .env
 notes.txt
 gitpush.bat
+yarn.lock
+package-lock.json
 
 # Quasar core related directories
 .quasar
