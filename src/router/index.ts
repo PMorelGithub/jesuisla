@@ -33,7 +33,5 @@ export default route(function (/* { store, ssrContext } */) {
     // quasar.conf.js -> build -> publicPath
     history: createHistory(process.env.VUE_ROUTER_BASE),
   });
-  console.log('From router/index.ts');
-  console.log('env:', process.env.VITE_SUPABASE_URL);
   return Router;
 });
