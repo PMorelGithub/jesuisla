@@ -1,3 +1,4 @@
+// Should write some documentation
 import { describe, it, expect } from 'vitest';
 // import App from '../App.vue'
 // import { mount } from '@vue/test-utils'
