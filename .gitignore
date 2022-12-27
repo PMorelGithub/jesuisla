@@ -5,6 +5,7 @@ node_modules
 # Private
 .env
 notes.txt
+gitpush.bat
 
 # Quasar core related directories
 .quasar
