@@ -481,9 +481,6 @@ export default defineComponent({
   },
 
   setup() {
-    // const EventBus = new Vue();
-    // const bus = new EventBus()
-    // console.log('bus', bus)
     const { t } = useI18n();
     const userStore = useUserStore();
     const settingsStore = useSettingsStore();

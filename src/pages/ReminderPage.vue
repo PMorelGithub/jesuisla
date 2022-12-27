@@ -769,9 +769,6 @@ export default defineComponent({
     ColorCircleMark,
   },
   setup() {
-    //const showHelp = ref(false)
-    // const bus = new EventBus()
-    // console.log('bus', bus)
     const wizardPalette = ref(null);
     const tourAdd = new Shepherd.Tour({
       useModalOverlay: true,
