@@ -1,0 +1,16 @@
+{
+  "extends": "@quasar/app-vite/tsconfig-preset",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "strictFunctionTypes": true
+  }
+  // "exclude": [
+  //   "src/stores/reminder.store.ts"
+  // ],
+  // "include": [
+  //   "node_modules/shepherd.js/src/types/shepherd.d.ts"
+  // ]
+}
